@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I'm Yasenka 👋
 
-<!--
-**cryptoyasenka/cryptoyasenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Building things across Web2 and Web3.
 
-Here are some ideas to get you started:
+  **Web2** — e-commerce automation: custom sync tools for supplier feeds, price/inventory management, and storefront
+  integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Web3** — AI-powered dApps on [OpenGradient](https://opengradient.ai/). My latest project uses TEE-verified AI
+  inference with on-chain proofs for GitHub repository security analysis.
+
+  ### 🔗 Projects
+  - 🔍 [GitHub Security Checker](https://github-security-checker.vercel.app) — AI supply chain security scanner,
+  verified by OpenGradient TEE
+  - 🛒 [Labresta](https://github.com/cryptoyasenka/Labresta-v1) — automated price & availability sync from supplier XML
+  feeds to marketplace
+
+  ### 🛠 Stack
+  `Python` `Flask` `SQLAlchemy` `TypeScript` `Next.js` `React` `Tailwind` `Solidity` `Viem` `Claude Code`
+
+  ### 🐦 [Twitter](https://twitter.com/cryptoyasenka)
