@@ -17,4 +17,4 @@ Hey, I'm Yasenka 👋
   ### 🛠 Stack
   `Python` `Flask` `SQLAlchemy` `TypeScript` `Next.js` `React` `Tailwind` `Solidity` `Viem` `Claude Code`
 
-  ### 🐦 [Twitter][https://x.com/yasenka244]
+  ### 🐦 [Twitter](https://x.com/yasenka244)
