@@ -13,7 +13,7 @@ Building things across Web2 and Web3.
 ### 🔗 Projects
 - 🔍 [GitHub Security Checker](https://github-security-checker.vercel.app) — AI supply chain security scanner, verified by OpenGradient TEE
 - 📊 [Crypto Signal Board](https://crypto-signal-board.vercel.app) — AI-powered trading signals with TEE-verified predictions and ONNX volatility forecasting
-- 🛒 [Labresta](https://github.com/cryptoyasenka/Labresta-v1) — automated price & availability sync from supplier XML feeds to marketplace
+- 🛒 [Labresta](https://github.com/cryptoyasenka/Labresta-v1) — automated price & availability sync from supplier XML feeds to marketplace *(in development)*
 
 ### 🛠 Stack
 `Python` `Flask` `SQLAlchemy` `TypeScript` `Next.js` `React` `Tailwind` `Solidity` `Viem` `Claude Code`
